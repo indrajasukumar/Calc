@@ -1,5 +1,6 @@
 # Ex.08 Design of a Standard Calculator
-## Date:
+## Date: 10.5.24
+## Name: Indraja S
 
 ## AIM:
 To design a web application for a standard calculator with minimum five operations.
